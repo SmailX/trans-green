@@ -1,0 +1,1761 @@
+{
+    "electric_cars": [
+        {
+            "name": "Renault Zoe",
+            "charging_type": "AC (Type 2)",
+            "phases": 3,
+            "power_consumption": "22 кВт",
+            "country": "Europe"
+        },
+        {
+            "name": "Tesla Model S",
+            "charging_type": "AC (Type 2)",
+            "phases": 3,
+            "power_consumption": "11,5 кВт",
+            "country": "America"
+        },
+        {
+            "name": "Tesla Model S",
+            "charging_type": "AC (Type 2)",
+            "phases": 3,
+            "power_consumption": "16,5 кВт",
+            "country": "Europe"
+        },
+        {
+            "name": "Tesla Model 3",
+            "charging_type": "AC (Type 2)",
+            "phases": 3,
+            "power_consumption": "11 кВт",
+            "country": "America"
+        },
+        {
+            "name": "Tesla Model 3",
+            "charging_type": "AC (Type 2)",
+            "phases": 3,
+            "power_consumption": "11 кВт",
+            "country": "Europe"
+        },
+        {
+            "name": "Tesla Model 3",
+            "charging_type": "AC (Type 2)",
+            "phases": 3,
+            "power_consumption": "11 кВт",
+            "country": "China"
+        },
+        {
+            "name": "Tesla Model X",
+            "charging_type": "AC (Type 2)",
+            "phases": 3,
+            "power_consumption": "16,5 кВт",
+            "country": "America"
+        },
+        {
+            "name": "Tesla Model X",
+            "charging_type": "AC (Type 2)",
+            "phases": 3,
+            "power_consumption": "16,5 кВт",
+            "country": "Europe"
+        },
+        {
+            "name": "Tesla Model Y",
+            "charging_type": "AC (Type 2)",
+            "phases": 3,
+            "power_consumption": "11 кВт",
+            "country": "America"
+        },
+        {
+            "name": "Tesla Model Y",
+            "charging_type": "AC (Type 2)",
+            "phases": 3,
+            "power_consumption": "11 кВт",
+            "country": "Europe"
+        },
+        {
+            "name": "Tesla Model Y",
+            "charging_type": "AC (Type 2)",
+            "phases": 3,
+            "power_consumption": "11 кВт",
+            "country": "China"
+        },
+        {
+            "name": "Nissan Leaf (2nd Gen)",
+            "charging_type": "AC (Type 2)",
+            "phases": 1,
+            "power_consumption": "6,6 кВт",
+            "country": "China"
+        },
+        {
+            "name": "Nissan Leaf (2nd Gen)",
+            "charging_type": "AC (Type 2)",
+            "phases": 1,
+            "power_consumption": "6,6 кВт",
+            "country": "Europe"
+        },
+        {
+            "name": "Chevrolet Bolt EV",
+            "charging_type": "AC (Type 1)",
+            "phases": 1,
+            "power_consumption": "7,2 кВт",
+            "country": "America"
+        },
+        {
+            "name": "Chevrolet Bolt EUV",
+            "charging_type": "AC (Type 1)",
+            "phases": 1,
+            "power_consumption": "7,2 кВт",
+            "country": "America"
+        },
+        {
+            "name": "Hyundai Kona Electric",
+            "charging_type": "AC (Type 2)",
+            "phases": 1,
+            "power_consumption": "7,2 кВт",
+            "country": "China"
+        },
+        {
+            "name": "Hyundai Kona Electric",
+            "charging_type": "AC (Type 2)",
+            "phases": 1,
+            "power_consumption": "7,2 кВт",
+            "country": "Europe"
+        },
+        {
+            "name": "Hyundai Ioniq Electric",
+            "charging_type": "AC (Type 2)",
+            "phases": 1,
+            "power_consumption": "7,2 кВт",
+            "country": "China"
+        },
+        {
+            "name": "Hyundai Ioniq 5",
+            "charging_type": "AC (Type 2)",
+            "phases": 3,
+            "power_consumption": "11 кВт",
+            "country": "China"
+        },
+        {
+            "name": "Hyundai Ioniq 5",
+            "charging_type": "AC (Type 2)",
+            "phases": 3,
+            "power_consumption": "11 кВт",
+            "country": "Europe"
+        },
+        {
+            "name": "Hyundai Ioniq 6",
+            "charging_type": "AC (Type 2)",
+            "phases": 3,
+            "power_consumption": "11 кВт",
+            "country": "China"
+        },
+        {
+            "name": "Kia Soul EV",
+            "charging_type": "AC (Type 2)",
+            "phases": 1,
+            "power_consumption": "7,2 кВт",
+            "country": "China"
+        },
+        {
+            "name": "Kia Niro EV (e-Niro)",
+            "charging_type": "AC (Type 2)",
+            "phases": 1,
+            "power_consumption": "7,2 кВт",
+            "country": "China"
+        },
+        {
+            "name": "Kia EV6",
+            "charging_type": "AC (Type 2)",
+            "phases": 3,
+            "power_consumption": "11 кВт",
+            "country": "China"
+        },
+        {
+            "name": "Kia EV6",
+            "charging_type": "AC (Type 2)",
+            "phases": 3,
+            "power_consumption": "11 кВт",
+            "country": "Europe"
+        },
+        {
+            "name": "Audi e-tron",
+            "charging_type": "AC (Type 2)",
+            "phases": 3,
+            "power_consumption": "11 кВт (опционально 22 кВт)",
+            "country": "Europe"
+        },
+        {
+            "name": "Audi Q4 e-tron",
+            "charging_type": "AC (Type 2)",
+            "phases": 3,
+            "power_consumption": "11 кВт",
+            "country": "Europe"
+        },
+        {
+            "name": "Volkswagen e-Golf",
+            "charging_type": "AC (Type 2)",
+            "phases": 1,
+            "power_consumption": "7,2 кВт",
+            "country": "Europe"
+        },
+        {
+            "name": "Volkswagen ID.3",
+            "charging_type": "AC (Type 2)",
+            "phases": 3,
+            "power_consumption": "11 кВт",
+            "country": "Europe"
+        },
+        {
+            "name": "Volkswagen ID.3",
+            "charging_type": "AC (Type 2)",
+            "phases": 3,
+            "power_consumption": "11 кВт",
+            "country": "China"
+        },
+        {
+            "name": "Volkswagen ID.4",
+            "charging_type": "AC (Type 2)",
+            "phases": 3,
+            "power_consumption": "11 кВт",
+            "country": "Europe"
+        },
+        {
+            "name": "Volkswagen ID.4",
+            "charging_type": "AC (Type 2)",
+            "phases": 3,
+            "power_consumption": "11 кВт",
+            "country": "China"
+        },
+        {
+            "name": "Volkswagen ID.5",
+            "charging_type": "AC (Type 2)",
+            "phases": 3,
+            "power_consumption": "11 кВт",
+            "country": "Europe"
+        },
+        {
+            "name": "Volkswagen ID.6",
+            "charging_type": "AC (Type 2)",
+            "phases": 3,
+            "power_consumption": "11 кВт",
+            "country": "Europe"
+        },
+        {
+            "name": "Volkswagen ID.7",
+            "charging_type": "AC (Type 2)",
+            "phases": 3,
+            "power_consumption": "11 кВт",
+            "country": "Europe"
+        },
+        {
+            "name": "Skoda Enyaq iV",
+            "charging_type": "AC (Type 2)",
+            "phases": 3,
+            "power_consumption": "11 кВт",
+            "country": "Europe"
+        },
+        {
+            "name": "Cupra Born",
+            "charging_type": "AC (Type 2)",
+            "phases": 3,
+            "power_consumption": "11 кВт",
+            "country": "Europe"
+        },
+        {
+            "name": "Toyota bZ4X",
+            "charging_type": "AC (Type 2)",
+            "phases": 1,
+            "power_consumption": "7,4 кВт",
+            "country": "China"
+        },
+        {
+            "name": "Lexus UX 300e",
+            "charging_type": "AC (Type 2)",
+            "phases": 1,
+            "power_consumption": "6,6 кВт",
+            "country": "China"
+        },
+        {
+            "name": "Nissan Ariya",
+            "charging_type": "AC (Type 2)",
+            "phases": 1,
+            "power_consumption": "7,4 кВт",
+            "country": "China"
+        },
+        {
+            "name": "Jaguar I-PACE",
+            "charging_type": "AC (Type 2)",
+            "phases": 3,
+            "power_consumption": "11 кВт",
+            "country": "Europe"
+        },
+        {
+            "name": "Opel Corsa-e",
+            "charging_type": "AC (Type 2)",
+            "phases": 1,
+            "power_consumption": "7,4 кВт",
+            "country": "Europe"
+        },
+        {
+            "name": "Opel Mokka-e",
+            "charging_type": "AC (Type 2)",
+            "phases": 1,
+            "power_consumption": "7,4 кВт",
+            "country": "Europe"
+        },
+        {
+            "name": "DS 3 Crossback E-Tense",
+            "charging_type": "AC (Type 2)",
+            "phases": 1,
+            "power_consumption": "7,4 кВт",
+            "country": "Europe"
+        },
+        {
+            "name": "Peugeot e-208",
+            "charging_type": "AC (Type 2)",
+            "phases": 1,
+            "power_consumption": "7,4 кВт",
+            "country": "Europe"
+        },
+        {
+            "name": "Peugeot e-2008",
+            "charging_type": "AC (Type 2)",
+            "phases": 1,
+            "power_consumption": "7,4 кВт",
+            "country": "Europe"
+        },
+        {
+            "name": "BMW i3",
+            "charging_type": "AC (Type 2)",
+            "phases": 1,
+            "power_consumption": "11 кВт",
+            "country": "Europe"
+        },
+        {
+            "name": "BMW i3",
+            "charging_type": "AC (Type 2)",
+            "phases": 1,
+            "power_consumption": "7,4 кВт",
+            "country": "China"
+        },
+        {
+            "name": "BMW i4",
+            "charging_type": "AC (Type 2)",
+            "phases": 3,
+            "power_consumption": "11 кВт",
+            "country": "Europe"
+        },
+        {
+            "name": "BMW iX",
+            "charging_type": "AC (Type 2)",
+            "phases": 3,
+            "power_consumption": "11 кВт",
+            "country": "Europe"
+        },
+        {
+            "name": "BMW iX",
+            "charging_type": "AC (Type 2)",
+            "phases": 3,
+            "power_consumption": "11 кВт",
+            "country": "China"
+        },
+        {
+            "name": "Mercedes-Benz EQA",
+            "charging_type": "AC (Type 2)",
+            "phases": 3,
+            "power_consumption": "11 кВт",
+            "country": "Europe"
+        },
+        {
+            "name": "Mercedes-Benz EQB",
+            "charging_type": "AC (Type 2)",
+            "phases": 3,
+            "power_consumption": "11 кВт",
+            "country": "Europe"
+        },
+        {
+            "name": "Mercedes-Benz EQC",
+            "charging_type": "AC (Type 2)",
+            "phases": 3,
+            "power_consumption": "11 кВт",
+            "country": "Europe"
+        },
+        {
+            "name": "Mercedes-Benz EQE",
+            "charging_type": "AC (Type 2)",
+            "phases": 3,
+            "power_consumption": "11 кВт",
+            "country": "Europe"
+        },
+        {
+            "name": "Mercedes-Benz EQS",
+            "charging_type": "AC (Type 2)",
+            "phases": 3,
+            "power_consumption": "22 кВт",
+            "country": "Europe"
+        },
+        {
+            "name": "Mercedes-Benz EQS SUV",
+            "charging_type": "AC (Type 2)",
+            "phases": 3,
+            "power_consumption": "22 кВт",
+            "country": "Europe"
+        },
+        {
+            "name": "Porsche Taycan",
+            "charging_type": "AC (Type 2)",
+            "phases": 3,
+            "power_consumption": "22 кВт",
+            "country": "Europe"
+        },
+        {
+            "name": "Renault Twingo Electric",
+            "charging_type": "AC (Type 2)",
+            "phases": 2,
+            "power_consumption": "22 кВт",
+            "country": "Europe"
+        },
+        {
+            "name": "Renault Megane E-Tech Electric",
+            "charging_type": "AC (Type 2)",
+            "phases": 2,
+            "power_consumption": "22 кВт",
+            "country": "Europe"
+        },
+        {
+            "name": "Citroën ë-C4",
+            "charging_type": "AC (Type 2)",
+            "phases": 1,
+            "power_consumption": "7,4 кВт",
+            "country": "Europe"
+        },
+        {
+            "name": "Honda e",
+            "charging_type": "AC (Type 2)",
+            "phases": 1,
+            "power_consumption": "6,6 кВт",
+            "country": "China"
+        },
+        {
+            "name": "Mazda MX-30",
+            "charging_type": "AC (Type 2)",
+            "phases": 1,
+            "power_consumption": "6,6 кВт",
+            "country": "China"
+        },
+        {
+            "name": "MINI Cooper SE (Electric)",
+            "charging_type": "AC (Type 2)",
+            "phases": 2,
+            "power_consumption": "11 кВт",
+            "country": "Europe"
+        },
+        {
+            "name": "Fiat 500e (новый)",
+            "charging_type": "AC (Type 2)",
+            "phases": 2,
+            "power_consumption": "11 кВт",
+            "country": "Europe"
+        },
+        {
+            "name": "Smart EQ Fortwo",
+            "charging_type": "AC (Type 2)",
+            "phases": 2,
+            "power_consumption": "22 кВт",
+            "country": "Europe"
+        },
+        {
+            "name": "Smart EQ Forfour",
+            "charging_type": "AC (Type 2)",
+            "phases": 2,
+            "power_consumption": "22 кВт",
+            "country": "Europe"
+        },
+        {
+            "name": "Ford Mustang Mach-E",
+            "charging_type": "AC (Type 2)",
+            "phases": 1,
+            "power_consumption": "11 кВт",
+            "country": "America"
+        },
+        {
+            "name": "Rivian R1T",
+            "charging_type": "AC (Type 2)",
+            "phases": 1,
+            "power_consumption": "11,5 кВт",
+            "country": "America"
+        },
+        {
+            "name": "Rivian R1S",
+            "charging_type": "AC (Type 2)",
+            "phases": 1,
+            "power_consumption": "11,5 кВт",
+            "country": "America"
+        },
+        {
+            "name": "Lucid Air",
+            "charging_type": "AC (Type 2)",
+            "phases": 1,
+            "power_consumption": "19,2 кВт",
+            "country": "America"
+        },
+        {
+            "name": "Polestar 2",
+            "charging_type": "AC (Type 2)",
+            "phases": 3,
+            "power_consumption": "11 кВт",
+            "country": "Europe"
+        },
+        {
+            "name": "Polestar 2",
+            "charging_type": "AC (Type 2)",
+            "phases": 3,
+            "power_consumption": "11 кВт",
+            "country": "China"
+        },
+        {
+            "name": "Volvo XC40 Recharge",
+            "charging_type": "AC (Type 2)",
+            "phases": 3,
+            "power_consumption": "11 кВт",
+            "country": "Europe"
+        },
+        {
+            "name": "Volvo C40 Recharge",
+            "charging_type": "AC (Type 2)",
+            "phases": 3,
+            "power_consumption": "11 кВт",
+            "country": "Europe"
+        },
+        {
+            "name": "BYD Han EV",
+            "charging_type": "AC (GB/T 20234.2)",
+            "phases": 1,
+            "power_consumption": "7,4 кВт",
+            "country": "China"
+        },
+        {
+            "name": "BYD Han EV",
+            "charging_type": "AC (GB/T 20234.2)",
+            "phases": 1,
+            "power_consumption": "7,4 кВт",
+            "country": "Europe"
+        },
+        {
+            "name": "BYD Tang EV",
+            "charging_type": "AC (GB/T 20234.2)",
+            "phases": 1,
+            "power_consumption": "7,4 кВт",
+            "country": "China"
+        },
+        {
+            "name": "BYD Dolphin",
+            "charging_type": "AC (GB/T 20234.2)",
+            "phases": 1,
+            "power_consumption": "7,4 кВт",
+            "country": "China"
+        },
+        {
+            "name": "NIO ES6",
+            "charging_type": "AC (GB/T 20234.2)",
+            "phases": 1,
+            "power_consumption": "7,4 кВт",
+            "country": "China"
+        },
+        {
+            "name": "NIO ES8",
+            "charging_type": "AC (GB/T 20234.2)",
+            "phases": 1,
+            "power_consumption": "7,4 кВт",
+            "country": "China"
+        },
+        {
+            "name": "NIO ET7",
+            "charging_type": "AC (GB/T 20234.2)",
+            "phases": 1,
+            "power_consumption": "7,4 кВт",
+            "country": "China"
+        },
+        {
+            "name": "MG ZS EV",
+            "charging_type": "AC (GB/T 20234.2)",
+            "phases": 1,
+            "power_consumption": "7,4 кВт",
+            "country": "China"
+        },
+        {
+            "name": "MG4 (MG Mulan)",
+            "charging_type": "AC (Type 2)",
+            "phases": 3,
+            "power_consumption": "11 кВт",
+            "country": "China"
+        },
+        {
+            "name": "Ford F-150 Lightning",
+            "charging_type": "AC (Type 1, J1772)",
+            "phases": 1,
+            "power_consumption": "19,2 кВт",
+            "country": "America"
+        },
+        {
+            "name": "GMC Hummer EV",
+            "charging_type": "AC (Type 1)",
+            "phases": 1,
+            "power_consumption": "19,2 кВт",
+            "country": "China"
+        },
+        {
+            "name": "Cadillac Lyriq",
+            "charging_type": "AC (Type 1)",
+            "phases": 1,
+            "power_consumption": "19,2 кВт",
+            "country": "America"
+        },
+        {
+            "name": "Fisker Ocean",
+            "charging_type": "AC (Type 2)/CCS",
+            "phases": 3,
+            "power_consumption": "11 кВт",
+            "country": "America"
+        },
+        {
+            "name": "VinFast VF 8",
+            "charging_type": "AC (Type 2)/CCS",
+            "phases": 3,
+            "power_consumption": "11 кВт",
+            "country": "China"
+        },
+        {
+            "name": "BMW i5",
+            "charging_type": "AC (Type 2)",
+            "phases": 3,
+            "power_consumption": "11 кВт",
+            "country": "Europe"
+        },
+        {
+            "name": "Volkswagen ID. Buzz",
+            "charging_type": "AC (Type 2)",
+            "phases": 3,
+            "power_consumption": "11 кВт",
+            "country": "Europe"
+        },
+        {
+            "name": "Chevrolet Silverado EV",
+            "charging_type": "AC (Type 1, J1772)",
+            "phases": 1,
+            "power_consumption": "19,2 кВт",
+            "country": "America"
+        },
+        {
+            "name": "GMC Sierra EV",
+            "charging_type": "AC (Type 1, J1772)",
+            "phases": 1,
+            "power_consumption": "19,2 кВт",
+            "country": "China"
+        },
+        {
+            "name": "Jeep Avenger EV",
+            "charging_type": "AC (Type 2)",
+            "phases": 3,
+            "power_consumption": "11 кВт",
+            "country": "America"
+        },
+        {
+            "name": "Lotus Eletre",
+            "charging_type": "AC (Type 2)",
+            "phases": 3,
+            "power_consumption": "22 кВт",
+            "country": "China"
+        },
+        {
+            "name": "Rolls-Royce Spectre",
+            "charging_type": "AC (Type 2)",
+            "phases": 3,
+            "power_consumption": "22 кВт",
+            "country": "Europe"
+        },
+        {
+            "name": "Zeekr 001",
+            "charging_type": "AC (GB/T 20234.2)",
+            "phases": 3,
+            "power_consumption": "7,4 кВт",
+            "country": "China"
+        },
+        {
+            "name": "Tesla Cybertruck",
+            "charging_type": "AC (Type 2)",
+            "phases": 3,
+            "power_consumption": "11.5 кВт",
+            "country": "America"
+        },
+        {
+            "name": "Jeep Recon (электрический)",
+            "charging_type": "AC (Type 2)",
+            "phases": 3,
+            "power_consumption": "11 кВт",
+            "country": "America"
+        },
+        {
+            "name": "Subaru Solterra",
+            "charging_type": "AC (Type 2)",
+            "phases": 1,
+            "power_consumption": "7,4 кВт",
+            "country": "China"
+        },
+        {
+            "name": "Toyota bZ3",
+            "charging_type": "AC (Type 2)",
+            "phases": 1,
+            "power_consumption": "11 кВт",
+            "country": "China"
+        },
+        {
+            "name": "Citroën Ami",
+            "charging_type": "AC (Type 2)",
+            "phases": 1,
+            "power_consumption": "3 кВт",
+            "country": "Europe"
+        },
+        {
+            "name": "ORA Good Cat (Funky Cat)",
+            "charging_type": "AC (Type 2)",
+            "phases": 3,
+            "power_consumption": "11 кВт",
+            "country": "China"
+        },
+        {
+            "name": "XPeng G9",
+            "charging_type": "AC (GB/T 20234.2)",
+            "phases": 3,
+            "power_consumption": "7,4 кВт",
+            "country": "China"
+        },
+        {
+            "name": "XPeng P7",
+            "charging_type": "AC (GB/T 20234.2)",
+            "phases": 1,
+            "power_consumption": "7,4 кВт",
+            "country": "China"
+        },
+        {
+            "name": "Avatr 11",
+            "charging_type": "AC (Type 2)",
+            "phases": 3,
+            "power_consumption": "11 кВт",
+            "country": "China"
+        },
+        {
+            "name": "Voyah Free",
+            "charging_type": "AC (Type 2)",
+            "phases": 3,
+            "power_consumption": "11 кВт",
+            "country": "China"
+        },
+        {
+            "name": "AITO M5 EV",
+            "charging_type": "AC (Type 2)",
+            "phases": 1,
+            "power_consumption": "7–11 кВт",
+            "country": "China"
+        },
+        {
+            "name": "Seres 5",
+            "charging_type": "AC (GB/T 20234.2)",
+            "phases": 1,
+            "power_consumption": "7,4 кВт",
+            "country": "China"
+        },
+        {
+            "name": "Lexus RZ 450e",
+            "charging_type": "AC (Type 2)",
+            "phases": 3,
+            "power_consumption": "11 кВт",
+            "country": "China"
+        },
+        {
+            "name": "Genesis GV60",
+            "charging_type": "AC (Type 2)",
+            "phases": 3,
+            "power_consumption": "11 кВт",
+            "country": "China"
+        },
+        {
+            "name": "Genesis G80 Electrified",
+            "charging_type": "AC (Type 2)",
+            "phases": 3,
+            "power_consumption": "11 кВт",
+            "country": "China"
+        },
+        {
+            "name": "BYD Atto 3",
+            "charging_type": "AC (GB/T 20234.2)",
+            "phases": 3,
+            "power_consumption": "7,4 кВт",
+            "country": "China"
+        },
+        {
+            "name": "BYD Seal",
+            "charging_type": "AC (GB/T 20234.2)",
+            "phases": 3,
+            "power_consumption": "7,4 кВт",
+            "country": "China"
+        },
+        {
+            "name": "Polestar 3",
+            "charging_type": "AC (Type 2)",
+            "phases": 3,
+            "power_consumption": "11 кВт",
+            "country": "Europe"
+        },
+        {
+            "name": "Polestar 4",
+            "charging_type": "AC (Type 2)",
+            "phases": 3,
+            "power_consumption": "22 кВт",
+            "country": "Europe"
+        },
+        {
+            "name": "MG5 EV",
+            "charging_type": "AC (Type 2)",
+            "phases": 3,
+            "power_consumption": "11 кВт",
+            "country": "China"
+        },
+        {
+            "name": "Aiways U5",
+            "charging_type": "AC (GB/T 20234.2)",
+            "phases": 1,
+            "power_consumption": "7,4 кВт",
+            "country": "China"
+        },
+        {
+            "name": "Leapmotor T03",
+            "charging_type": "AC (GB/T 20234.2)",
+            "phases": 1,
+            "power_consumption": "7,4 кВт",
+            "country": "China"
+        },
+        {
+            "name": "Micro Mobility Microlino",
+            "charging_type": "AC (Type 2)",
+            "phases": 1,
+            "power_consumption": "2,6 кВт",
+            "country": "China"
+        },
+        {
+            "name": "Canoo Lifestyle Vehicle",
+            "charging_type": "AC (Type 1, J1772)",
+            "phases": 1,
+            "power_consumption": "6,6 кВт",
+            "country": "China"
+        },
+        {
+            "name": "Bollinger B1",
+            "charging_type": "AC (Type 1, J1772)",
+            "phases": 1,
+            "power_consumption": "11 кВт",
+            "country": "China"
+        },
+        {
+            "name": "Bollinger B2",
+            "charging_type": "AC (Type 1, J1772)",
+            "phases": 1,
+            "power_consumption": "11 кВт",
+            "country": "China"
+        },
+        {
+            "name": "Faraday Future FF 91",
+            "charging_type": "AC (Type 1, J1772)",
+            "phases": 1,
+            "power_consumption": "15 кВт",
+            "country": "China"
+        },
+        {
+            "name": "Kia Ray EV",
+            "charging_type": "AC (Type 1)",
+            "phases": 1,
+            "power_consumption": "7 кВт",
+            "country": "China"
+        },
+        {
+            "name": "Opel Astra Electric",
+            "charging_type": "AC (Type 2)",
+            "phases": 3,
+            "power_consumption": "11 кВт",
+            "country": "Europe"
+        },
+        {
+            "name": "Vauxhall Astra Electric",
+            "charging_type": "AC (Type 2)",
+            "phases": 3,
+            "power_consumption": "11 кВт",
+            "country": "China"
+        },
+        {
+            "name": "Dacia Spring",
+            "charging_type": "AC (Type 2) (Renault K-ZE)",
+            "phases": 1,
+            "power_consumption": "6,6 кВт",
+            "country": "China"
+        },
+        {
+            "name": "Leapmotor C11",
+            "charging_type": "AC (GB/T 20234.2)",
+            "phases": 3,
+            "power_consumption": "7,4 кВт",
+            "country": "China"
+        },
+        {
+            "name": "Chery eQ1 (Little Ant)",
+            "charging_type": "AC (GB/T 20234.2)",
+            "phases": 1,
+            "power_consumption": "7,4 кВт",
+            "country": "China"
+        },
+        {
+            "name": "Maxus MIFA 9",
+            "charging_type": "AC (Type 2)",
+            "phases": 3,
+            "power_consumption": "11 кВт",
+            "country": "China"
+        },
+        {
+            "name": "Opel Vivaro-e",
+            "charging_type": "AC (Type 2)",
+            "phases": 3,
+            "power_consumption": "11 кВт",
+            "country": "Europe"
+        },
+        {
+            "name": "Toyota Proace Electric",
+            "charging_type": "AC (Type 2)",
+            "phases": 3,
+            "power_consumption": "11 кВт",
+            "country": "China"
+        },
+        {
+            "name": "Nissan Townstar EV",
+            "charging_type": "AC (Type 2)",
+            "phases": 3,
+            "power_consumption": "11 кВт",
+            "country": "China"
+        },
+        {
+            "name": "Peugeot e-Rifter",
+            "charging_type": "AC (Type 2)",
+            "phases": 3,
+            "power_consumption": "11 кВт",
+            "country": "Europe"
+        },
+        {
+            "name": "Citroën ë-Berlingo",
+            "charging_type": "AC (Type 2)",
+            "phases": 3,
+            "power_consumption": "11 кВт",
+            "country": "Europe"
+        },
+        {
+            "name": "Vauxhall Combo-e Life",
+            "charging_type": "AC (Type 2)",
+            "phases": 3,
+            "power_consumption": "11 кВт",
+            "country": "China"
+        },
+        {
+            "name": "Opel Combo-e Life",
+            "charging_type": "AC (Type 2)",
+            "phases": 3,
+            "power_consumption": "11 кВт",
+            "country": "Europe"
+        },
+        {
+            "name": "Peugeot e-Traveller",
+            "charging_type": "AC (Type 2)",
+            "phases": 3,
+            "power_consumption": "11 кВт",
+            "country": "Europe"
+        },
+        {
+            "name": "Citroën ë-SpaceTourer",
+            "charging_type": "AC (Type 2)",
+            "phases": 3,
+            "power_consumption": "11 кВт",
+            "country": "Europe"
+        },
+        {
+            "name": "Opel Zafira-e Life",
+            "charging_type": "AC (Type 2)",
+            "phases": 3,
+            "power_consumption": "11 кВт",
+            "country": "Europe"
+        },
+        {
+            "name": "Hongqi E-HS9",
+            "charging_type": "AC (GB/T 20234.2)",
+            "phases": 3,
+            "power_consumption": "7,4 кВт",
+            "country": "China"
+        },
+        {
+            "name": "Roewe Ei5",
+            "charging_type": "AC (Type 2)",
+            "phases": 1,
+            "power_consumption": "6,6 кВт",
+            "country": "China"
+        },
+        {
+            "name": "Hozon Neta U",
+            "charging_type": "AC (Type 2)",
+            "phases": 1,
+            "power_consumption": "7 кВт",
+            "country": "China"
+        },
+        {
+            "name": "Hozon Neta V",
+            "charging_type": "AC (Type 2)",
+            "phases": 1,
+            "power_consumption": "6,6 кВт",
+            "country": "China"
+        },
+        {
+            "name": "BAIC EU5",
+            "charging_type": "AC (Type 2)",
+            "phases": 1,
+            "power_consumption": "7 кВт",
+            "country": "China"
+        },
+        {
+            "name": "Dongfeng Fengon E3",
+            "charging_type": "AC (GB/T 20234.2)",
+            "phases": 1,
+            "power_consumption": "7,4 кВт",
+            "country": "China"
+        },
+        {
+            "name": "Ora Lightning Cat",
+            "charging_type": "AC (GB/T 20234.2)",
+            "phases": 3,
+            "power_consumption": "7,4 кВт",
+            "country": "China"
+        },
+        {
+            "name": "Maxus Euniq 6",
+            "charging_type": "AC (Type 2)",
+            "phases": 3,
+            "power_consumption": "11 кВт",
+            "country": "China"
+        },
+        {
+            "name": "Maxus Euniq 7",
+            "charging_type": "AC (Type 2)",
+            "phases": 3,
+            "power_consumption": "11 кВт",
+            "country": "China"
+        },
+        {
+            "name": "VinFast VF 5",
+            "charging_type": "AC (Type 2)",
+            "phases": 1,
+            "power_consumption": "7–11 кВт",
+            "country": "China"
+        },
+        {
+            "name": "Geometry A",
+            "charging_type": "AC (Type 2)",
+            "phases": 1,
+            "power_consumption": "7–11 кВт",
+            "country": "China"
+        },
+        {
+            "name": "Geometry C",
+            "charging_type": "AC (Type 2)",
+            "phases": 1,
+            "power_consumption": "7–11 кВт",
+            "country": "China"
+        },
+        {
+            "name": "GAC Aion S",
+            "charging_type": "AC (GB/T 20234.2)",
+            "phases": 1,
+            "power_consumption": "7,4 кВт",
+            "country": "China"
+        },
+        {
+            "name": "Citroën C-Zero",
+            "charging_type": "AC (Type 1)",
+            "phases": 1,
+            "power_consumption": "3,7 кВт (AC)",
+            "country": "Europe"
+        },
+        {
+            "name": "Peugeot iOn",
+            "charging_type": "AC (Type 1)",
+            "phases": 1,
+            "power_consumption": "3,7 кВт (AC)",
+            "country": "Europe"
+        },
+        {
+            "name": "Mitsubishi i-MiEV",
+            "charging_type": "AC (Type 1)",
+            "phases": 1,
+            "power_consumption": "3,7 кВт (AC)",
+            "country": "China"
+        },
+        {
+            "name": "Renault Kangoo E-Tech Electric",
+            "charging_type": "AC (Type 2)",
+            "phases": 1,
+            "power_consumption": "7,4 кВт",
+            "country": "Europe"
+        },
+        {
+            "name": "Ford E-Transit",
+            "charging_type": "AC (Type 2)",
+            "phases": 3,
+            "power_consumption": "11 кВт",
+            "country": "America"
+        },
+        {
+            "name": "Mercedes-Benz eVito",
+            "charging_type": "AC (Type 2)",
+            "phases": 3,
+            "power_consumption": "11 кВт",
+            "country": "Europe"
+        },
+        {
+            "name": "Mercedes-Benz eSprinter",
+            "charging_type": "AC (Type 2)",
+            "phases": 3,
+            "power_consumption": "11 кВт",
+            "country": "Europe"
+        },
+        {
+            "name": "Volkswagen e-Crafter",
+            "charging_type": "AC (Type 2)",
+            "phases": 1,
+            "power_consumption": "7,2 кВт (AC)",
+            "country": "Europe"
+        },
+        {
+            "name": "Nissan e-NV200",
+            "charging_type": "AC (Type 1)",
+            "phases": 1,
+            "power_consumption": "6,6 кВт (AC)",
+            "country": "China"
+        },
+        {
+            "name": "Toyota Proace City Electric",
+            "charging_type": "AC (Type 2)",
+            "phases": 3,
+            "power_consumption": "11 кВт",
+            "country": "China"
+        },
+        {
+            "name": "Honda e:NS1",
+            "charging_type": "AC (Type 2)",
+            "phases": 3,
+            "power_consumption": "11 кВт",
+            "country": "China"
+        },
+        {
+            "name": "Honda e:NP1",
+            "charging_type": "AC (Type 2)",
+            "phases": 3,
+            "power_consumption": "11 кВт",
+            "country": "China"
+        },
+        {
+            "name": "Toyota C+pod",
+            "charging_type": "AC Type 2)",
+            "phases": 1,
+            "power_consumption": "~1,1 кВт",
+            "country": "China"
+        },
+        {
+            "name": "ORA White Cat",
+            "charging_type": "AC (Type 2)",
+            "phases": 1,
+            "power_consumption": "6,6 кВт",
+            "country": "China"
+        },
+        {
+            "name": "ORA Black Cat",
+            "charging_type": "AC (Type 2)",
+            "phases": 1,
+            "power_consumption": "6,6 кВт",
+            "country": "China"
+        },
+        {
+            "name": "XPeng G3",
+            "charging_type": "AC (GB/T 20234.2)",
+            "phases": 1,
+            "power_consumption": "7,4 кВт",
+            "country": "China"
+        },
+        {
+            "name": "XPeng P5",
+            "charging_type": "AC (GB/T 20234.2)",
+            "phases": 1,
+            "power_consumption": "7,4 кВт",
+            "country": "China"
+        },
+        {
+            "name": "NIO ET5",
+            "charging_type": "AC (GB/T 20234.2)",
+            "phases": 3,
+            "power_consumption": "7,4 кВт",
+            "country": "China"
+        },
+        {
+            "name": "NIO EC7",
+            "charging_type": "AC (GB/T 20234.2)",
+            "phases": 3,
+            "power_consumption": "7,4 кВт",
+            "country": "China"
+        },
+        {
+            "name": "GAC Aion LX",
+            "charging_type": "AC (GB/T 20234.2)",
+            "phases": 3,
+            "power_consumption": "7,4 кВт",
+            "country": "China"
+        },
+        {
+            "name": "GAC Aion V",
+            "charging_type": "AC (GB/T 20234.2)",
+            "phases": 3,
+            "power_consumption": "7,4 кВт",
+            "country": "China"
+        },
+        {
+            "name": "GAC Aion Y",
+            "charging_type": "AC (GB/T 20234.2)",
+            "phases": 3,
+            "power_consumption": "7,4 кВт",
+            "country": "China"
+        },
+        {
+            "name": "GAC Aion Hyper GT",
+            "charging_type": "AC (GB/T 20234.2)",
+            "phases": 3,
+            "power_consumption": "7,4 кВт",
+            "country": "China"
+        },
+        {
+            "name": "Chang'an E-Star",
+            "charging_type": "AC (GB/T 20234.2)",
+            "phases": 1,
+            "power_consumption": "7,4 кВт",
+            "country": "China"
+        },
+        {
+            "name": "Shenlan SL03",
+            "charging_type": "AC (Type 2)",
+            "phases": 1,
+            "power_consumption": "7–11 кВт",
+            "country": "China"
+        },
+        {
+            "name": "MG Marvel R",
+            "charging_type": "AC (GB/T 20234.2)",
+            "phases": 3,
+            "power_consumption": "7,4 кВт",
+            "country": "China"
+        },
+        {
+            "name": "Arrival Van",
+            "charging_type": "AC (Type 2)",
+            "phases": 3,
+            "power_consumption": "11 кВт",
+            "country": "China"
+        },
+        {
+            "name": "Lightyear 0",
+            "charging_type": "AC (Type 2)",
+            "phases": 1,
+            "power_consumption": "3,7–6,6 кВт (AC)",
+            "country": "Europe"
+        },
+        {
+            "name": "BMW i7",
+            "charging_type": "AC (Type 2)",
+            "phases": 3,
+            "power_consumption": "11 кВт",
+            "country": "Europe"
+        },
+        {
+            "name": "Cadillac Celestiq",
+            "charging_type": "AC (Type 1, J1772)",
+            "phases": 1,
+            "power_consumption": "19,2 кВт",
+            "country": "America"
+        },
+        {
+            "name": "Cadillac Escalade IQ",
+            "charging_type": "AC (Type 1, J1772)",
+            "phases": 1,
+            "power_consumption": "19,2 кВт",
+            "country": "America"
+        },
+        {
+            "name": "Lucid Gravity (SUV)",
+            "charging_type": "AC (Type 1, J1772)",
+            "phases": 1,
+            "power_consumption": "19,2 кВт",
+            "country": "America"
+        },
+        {
+            "name": "Elaris Finn",
+            "charging_type": "AC (GB/T 20234.2)",
+            "phases": 1,
+            "power_consumption": "7,4 кВт",
+            "country": "China"
+        },
+        {
+            "name": "Elaris Leo",
+            "charging_type": "AC (GB/T 20234.2)",
+            "phases": 1,
+            "power_consumption": "7,4 кВт",
+            "country": "China"
+        },
+        {
+            "name": "Fisker Pear",
+            "charging_type": "AC (Type 2)/CCS",
+            "phases": 3,
+            "power_consumption": "11 кВт",
+            "country": "America"
+        },
+        {
+            "name": "XEV Yoyo",
+            "charging_type": "AC (Type 2)",
+            "phases": 1,
+            "power_consumption": "3 кВт",
+            "country": "China"
+        },
+        {
+            "name": "Thunder Power Sedan",
+            "charging_type": "AC (Type 2)",
+            "phases": 3,
+            "power_consumption": "11 кВт",
+            "country": "China"
+        },
+        {
+            "name": "Seres 3",
+            "charging_type": "AC (GB/T 20234.2)",
+            "phases": 1,
+            "power_consumption": "7,4 кВт",
+            "country": "China"
+        },
+        {
+            "name": "JAC e-JS4",
+            "charging_type": "AC (GB/T 20234.2)",
+            "phases": 1,
+            "power_consumption": "7,4 кВт",
+            "country": "China"
+        },
+        {
+            "name": "Leapmotor C01",
+            "charging_type": "AC (GB/T 20234.2)",
+            "phases": 3,
+            "power_consumption": "7,4 кВт",
+            "country": "China"
+        },
+        {
+            "name": "ZEDriv GX5",
+            "charging_type": "AC (Type 2)",
+            "phases": 1,
+            "power_consumption": "6,6 kВт",
+            "country": "China"
+        },
+        {
+            "name": "AIWAYS U6",
+            "charging_type": "AC (Type 2)",
+            "phases": 1,
+            "power_consumption": "11 кВт",
+            "country": "China"
+        },
+        {
+            "name": "Suda SA01",
+            "charging_type": "AC (Type 2)",
+            "phases": 1,
+            "power_consumption": "6,6 кВт",
+            "country": "China"
+        },
+        {
+            "name": "e.GO Life",
+            "charging_type": "AC (Type 2)",
+            "phases": 1,
+            "power_consumption": "11 кВт",
+            "country": "China"
+        },
+        {
+            "name": "e.GO e.wave X",
+            "charging_type": "AC (Type 2)",
+            "phases": 1,
+            "power_consumption": "11 кВт",
+            "country": "China"
+        },
+        {
+            "name": "Togg T10X",
+            "charging_type": "AC (Type 2)",
+            "phases": 3,
+            "power_consumption": "11 кВт",
+            "country": "Europe"
+        },
+        {
+            "name": "Mahindra XUV400",
+            "charging_type": "AC (Type 2)",
+            "phases": 1,
+            "power_consumption": "7,2 кВт (AC)",
+            "country": "China"
+        },
+        {
+            "name": "Mahindra eVerito",
+            "charging_type": "AC (Type 2)",
+            "phases": 1,
+            "power_consumption": "3,3–7,2 кВт",
+            "country": "China"
+        },
+        {
+            "name": "Tata Nexon EV",
+            "charging_type": "AC (Type 2)",
+            "phases": 1,
+            "power_consumption": "7,2 кВт (AC)",
+            "country": "China"
+        },
+        {
+            "name": "Tata Tigor EV",
+            "charging_type": "AC (Type 2)",
+            "phases": 1,
+            "power_consumption": "7,2 кВт (AC)",
+            "country": "China"
+        },
+        {
+            "name": "Geely Emgrand EV",
+            "charging_type": "AC (GB/T 20234.2)",
+            "phases": 1,
+            "power_consumption": "7,4 кВт",
+            "country": "China"
+        },
+        {
+            "name": "Kandi K23",
+            "charging_type": "AC (Type 1, J1772) / DC (GB/T 20234.3)",
+            "phases": 1,
+            "power_consumption": "7,2 кВт (до 250 кВт на DC)",
+            "country": "China"
+        },
+        {
+            "name": "Kandi K27",
+            "charging_type": "AC (Type 1, J1772) / DC (GB/T 20234.3)",
+            "phases": 1,
+            "power_consumption": "7,2 кВт (до 250 кВт на DC)",
+            "country": "China"
+        },
+        {
+            "name": "Citroën ë-C3 (Индия)",
+            "charging_type": "AC (Type 2)",
+            "phases": 1,
+            "power_consumption": "7,2 кВт",
+            "country": "Europe"
+        },
+        {
+            "name": "Dongfeng Fengon E5",
+            "charging_type": "AC (GB/T 20234.2)",
+            "phases": 1,
+            "power_consumption": "7,4 кВт",
+            "country": "China"
+        },
+        {
+            "name": "Bolloré Bluecar",
+            "charging_type": "AC (Type 1)",
+            "phases": 1,
+            "power_consumption": "3 кВт (AC)",
+            "country": "China"
+        },
+        {
+            "name": "City Transformer CT-1",
+            "charging_type": "AC (Type 2)",
+            "phases": 1,
+            "power_consumption": "7 кВт",
+            "country": "China"
+        },
+        {
+            "name": "Silence S04",
+            "charging_type": "AC (Type 2)",
+            "phases": 1,
+            "power_consumption": "3–6 кВт",
+            "country": "China"
+        },
+        {
+            "name": "Opel Rocks-e",
+            "charging_type": "AC (Type 2)",
+            "phases": 1,
+            "power_consumption": "2,8 кВт",
+            "country": "Europe"
+        },
+        {
+            "name": "Arcimoto FUV",
+            "charging_type": "AC (Type 1, J1772)",
+            "phases": 1,
+            "power_consumption": "6,6 кВт (AC)",
+            "country": "China"
+        },
+        {
+            "name": "Electra Meccanica Solo",
+            "charging_type": "AC (Type 1, J1772)",
+            "phases": 1,
+            "power_consumption": "6,6 кВт (AC)",
+            "country": "China"
+        },
+        {
+            "name": "Tazzari Zero",
+            "charging_type": "AC (Type 2)",
+            "phases": 1,
+            "power_consumption": "6 кВт",
+            "country": "China"
+        },
+        {
+            "name": "Tazzari EM1",
+            "charging_type": "AC (Type 2)",
+            "phases": 1,
+            "power_consumption": "6 кВт",
+            "country": "China"
+        },
+        {
+            "name": "Renault Twizy",
+            "charging_type": "AC (Type 2)",
+            "phases": 1,
+            "power_consumption": "3 кВт",
+            "country": "Europe"
+        },
+        {
+            "name": "Evum aCar",
+            "charging_type": "AC (Type 2)",
+            "phases": 1,
+            "power_consumption": "7,2 кВт",
+            "country": "China"
+        },
+        {
+            "name": "GMC Hummer EV SUV",
+            "charging_type": "AC (Type 1, J1772)",
+            "phases": 1,
+            "power_consumption": "19,2 кВт",
+            "country": "China"
+        },
+        {
+            "name": "Bollinger B4",
+            "charging_type": "AC (Type 1, J1772)",
+            "phases": 1,
+            "power_consumption": "около 10–11 кВт (AC)",
+            "country": "China"
+        },
+        {
+            "name": "Geometry E",
+            "charging_type": "AC (Type 2)",
+            "phases": 1,
+            "power_consumption": "7–11 кВт",
+            "country": "China"
+        },
+        {
+            "name": "Arcfox αS (Alpha S)",
+            "charging_type": "AC (GB/T 20234.2)",
+            "phases": 3,
+            "power_consumption": "7,4 кВт",
+            "country": "China"
+        },
+        {
+            "name": "Arcfox αT (Alpha T)",
+            "charging_type": "AC (GB/T 20234.2)",
+            "phases": 3,
+            "power_consumption": "7,4 кВт",
+            "country": "China"
+        },
+        {
+            "name": "FAW Bestune NAT (New Energy Taxi)",
+            "charging_type": "AC (Type 2)",
+            "phases": 1,
+            "power_consumption": "7–11 кВт",
+            "country": "China"
+        },
+        {
+            "name": "Baojun E100",
+            "charging_type": "AC (GB/T 20234.2)",
+            "phases": 1,
+            "power_consumption": "7,4 кВт",
+            "country": "China"
+        },
+        {
+            "name": "Baojun E200",
+            "charging_type": "AC (GB/T 20234.2)",
+            "phases": 1,
+            "power_consumption": "7,4 кВт",
+            "country": "China"
+        },
+        {
+            "name": "Baojun E300 / Kiwi EV",
+            "charging_type": "AC (GB/T 20234.2)",
+            "phases": 1,
+            "power_consumption": "7,4 кВт",
+            "country": "China"
+        },
+        {
+            "name": "BYD e6",
+            "charging_type": "AC (GB/T 20234.2)",
+            "phases": 1,
+            "power_consumption": "7,4 кВт",
+            "country": "China"
+        },
+        {
+            "name": "Chang'an Lumin (Corn)",
+            "charging_type": "AC (GB/T 20234.2)",
+            "phases": 1,
+            "power_consumption": "7,4 кВт",
+            "country": "China"
+        },
+        {
+            "name": "Dongfeng E70",
+            "charging_type": "AC (GB/T 20234.2)",
+            "phases": 1,
+            "power_consumption": "7,4 кВт",
+            "country": "China"
+        },
+        {
+            "name": "Fiat E-Ulysse",
+            "charging_type": "AC (Type 2)",
+            "phases": 3,
+            "power_consumption": "11 кВт",
+            "country": "Europe"
+        },
+        {
+            "name": "Renault Master E-Tech Electric",
+            "charging_type": "AC (Type 2)",
+            "phases": 2,
+            "power_consumption": "22 кВт",
+            "country": "Europe"
+        },
+        {
+            "name": "Seres SF5 (EV-версия)",
+            "charging_type": "AC (GB/T 20234.2)",
+            "phases": 1,
+            "power_consumption": "7,4 кВт",
+            "country": "China"
+        },
+        {
+            "name": "Bestune E01",
+            "charging_type": "AC (Type 2)",
+            "phases": 1,
+            "power_consumption": "7 кВт",
+            "country": "China"
+        },
+        {
+            "name": "Changan Eado EV",
+            "charging_type": "AC (Type 2)",
+            "phases": 1,
+            "power_consumption": "7,2 кВт",
+            "country": "China"
+        },
+        {
+            "name": "Mazda MX-30 R-EV",
+            "charging_type": "AC (Type 2)",
+            "phases": 1,
+            "power_consumption": "11 кВт (AC)",
+            "country": "China"
+        },
+        {
+            "name": "Kaiyun Pickman",
+            "charging_type": "AC (Type 2)",
+            "phases": 1,
+            "power_consumption": "3–6,6 кВт",
+            "country": "China"
+        },
+        {
+            "name": "Ram 1500 REV",
+            "charging_type": "AC (Type 1, J1772)",
+            "phases": 1,
+            "power_consumption": "19,2 кВт",
+            "country": "China"
+        },
+        {
+            "name": "VinFast VF 6",
+            "charging_type": "AC (Type 2)/CCS",
+            "phases": 3,
+            "power_consumption": "11 кВт",
+            "country": "China"
+        },
+        {
+            "name": "VinFast VF 7",
+            "charging_type": "AC (Type 2)/CCS",
+            "phases": 3,
+            "power_consumption": "11 кВт",
+            "country": "China"
+        },
+        {
+            "name": "VinFast VF 9",
+            "charging_type": "AC (Type 2)/CCS",
+            "phases": 3,
+            "power_consumption": "11 кВт",
+            "country": "China"
+        },
+        {
+            "name": "Lotus Evija",
+            "charging_type": "AC (Type 2)",
+            "phases": 3,
+            "power_consumption": "22 кВт (AC)",
+            "country": "China"
+        },
+        {
+            "name": "Xpeng G6",
+            "charging_type": "AC (Type 2)",
+            "phases": 3,
+            "power_consumption": "11 кВт",
+            "country": "China"
+        },
+        {
+            "name": "GAC Aion Hyper SSR",
+            "charging_type": "AC (GB/T 20234.2)",
+            "phases": 3,
+            "power_consumption": "7,4 кВт",
+            "country": "China"
+        },
+        {
+            "name": "ZEEKR 009",
+            "charging_type": "AC (Type 2)",
+            "phases": 3,
+            "power_consumption": "22 кВт",
+            "country": "China"
+        },
+        {
+            "name": "ZEEKR X",
+            "charging_type": "AC (Type 2)",
+            "phases": 3,
+            "power_consumption": "22 кВт",
+            "country": "China"
+        },
+        {
+            "name": "Jidu Robo-01",
+            "charging_type": "AC (Type 2)",
+            "phases": 3,
+            "power_consumption": "11–22 кВт",
+            "country": "China"
+        },
+        {
+            "name": "Avatr 12",
+            "charging_type": "AC (Type 2)",
+            "phases": 3,
+            "power_consumption": "11–22 кВт",
+            "country": "China"
+        },
+        {
+            "name": "Qoros 5 EV",
+            "charging_type": "AC (Type 2)",
+            "phases": 1,
+            "power_consumption": "7–11 кВт",
+            "country": "China"
+        },
+        {
+            "name": "ELegend EL1",
+            "charging_type": "AC (Type 2)",
+            "phases": 3,
+            "power_consumption": "22 кВт (AC)",
+            "country": "China"
+        }
+    ]
+}

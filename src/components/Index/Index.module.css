@@ -1,0 +1,490 @@
+.mainVideo {
+    z-index: 1;
+}
+
+h1 {
+    font-size: 28px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+h2 {
+    font-size: 20px;
+    text-decoration: none;
+}
+
+h3 {
+    font-size: 18px;
+}
+
+h4 {
+    font-size: 24px;
+    align-items: center;
+}
+
+h5 {
+    font-size: 22px;
+}
+
+.product {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-left: 50px;
+    margin-right: 50px;
+    text-align: center;
+}
+
+.introSection{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.introSection video{
+    width: 720px;
+}
+
+.transGreenSection {
+    margin-top: 40px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.transGreenSection p {
+    color: #666666;
+    font-size: 18px;
+    font-weight: bold;
+    margin: 0px;
+}
+
+.description {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 720px;
+}
+
+.description .socket {
+    width: 40px;
+}
+
+.carWithLogos {
+    height: 200px;
+    margin: 0px 40px;
+}
+
+.socketBox {
+    display: flex;
+    align-items: center;
+    margin: 15px 0px;
+}
+
+.powerBox {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 40px 0px;
+    width: 720px;
+}
+
+.powerBox img {
+    width: 100px;
+    margin-right: 20px;
+}
+
+.img {
+    width: 100%;
+    height: auto;
+    max-width: 400px;
+}
+
+.icon {
+    margin-left: auto;
+    margin-right: 10px;
+}
+
+.thanks {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.thanks p {
+    color: #000;
+    font-size: 20px;
+}
+
+.thanks button {
+    color: #fff;
+    background-color: #333;
+    padding: 8px 12px;
+    border-radius: 5px;
+    border: none;
+    font-size: 16px;
+    margin: 1em;
+}
+
+.thanks button:hover {
+    color: #000;
+    background-color: #188d2f;
+    border: none;
+}
+
+.eLineSection {
+    margin: 80px 0px;
+}
+
+.subLogoBox {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.subLogo {
+    width: 200px;
+}
+
+.lowerImgBox {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 35px;
+    color: #666666;
+}
+
+.lowerImgBox img {
+    width: 720px;
+}
+
+.eLineDescription {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 400px;
+}
+
+.eLineDescription img {
+    height: 100%;
+}
+
+.eLineDescription h3 {
+    color: #666666;
+    width: 320px;
+}
+
+.armorSection {
+    margin-top: 40px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: #666666;
+}
+
+.armorSection .lowerImgBox {
+    margin-top: 0px;
+}
+
+.armorDescription {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 400px;
+    width: 720px;
+}
+
+.armorDescription img {
+    width: 340px;
+}
+
+.armorDescription div {
+    width: 320px;
+}
+
+.armorSection .lowerImgBox {
+    width: 720px;
+}
+
+.iconsSection {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.iconsSection div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.armorVideo {
+    width: 720px;
+}
+
+.materialText {
+    width: 720px;
+    height: 400px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #666666;
+}
+
+.materialText img {
+    width: 340px;
+}
+
+.materialText div {
+    width: 320px;
+}
+
+.holdersSection {
+    width: 720px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    color: #666666;
+}
+
+.holdersSection div {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 720px;
+    margin: 40px 0px;
+}
+
+.holdersSection img {
+    width: 320px;
+}
+
+.weatherBox {
+    display: flex;
+    justify-content: space-between;
+    width: 720px;
+    margin: 40px 0px;
+}
+
+.weatherBox div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    width: 25%;
+}
+
+.weatherBox img {
+    width: 100px;
+}
+
+.weatherBox h3 {
+    font-size: 14px;
+}
+
+@media screen and (max-width: 600px) {
+    .benefit {
+        display: flex;
+        justify-content: space-between;
+        position: relative;
+        flex-wrap: wrap;
+        margin: 0px;
+    }
+
+    .mainVideo {
+        z-index: 1;
+    }
+
+    .thanks {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-top: 50%;
+    }
+
+    .thanks p {
+        color: #000;
+        font-size: 20px;
+        text-align: center;
+    }
+
+    .transGreenSection, .eLineSection, .armorSection{
+        margin: 40px 20px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .introSection{
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        align-items: center;
+        margin: 40px 20px;
+    }
+
+    .introSection video{
+        width: 100%;
+    }
+
+    .description {
+        display: flex;
+        align-items: center;
+        justify-content: start;
+        width: 100%;
+        flex-wrap: wrap;
+    }
+
+    .carWithLogos {
+        height: 150px;
+        margin: 0px 40px;
+    }
+
+    .powerBox {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin: 40px;
+        width: 100%;
+    }
+
+     /* {
+        margin: 40px 20px;
+    } */
+
+    .eLineDescription {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: center;
+        height: 100%;
+    }
+
+    .eLineDescription img {
+        height: 250px;
+    }
+
+    .lowerImgBox img {
+        width: 100%;
+    }
+
+    /* .armorSection {
+        margin: 40px 20px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        color: #666666;
+    } */
+
+    .armorDescription {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: space-between;
+        height: 100%;
+        width: 100%;
+    }
+
+    .armorDescription div {
+        width: 320px;
+        flex: 1;
+    }
+
+    .armorDescription img {
+        width: 100%;
+    }
+
+    .armorSection .lowerImgBox {
+        width: 100%;
+    }
+
+    .armorVideo {
+        width: 100%;
+    }
+
+    .materialText {
+        margin: 20px 0px;
+        width: 100%;
+        height: 100%;
+        display: flex;
+        flex-wrap: wrap-reverse;
+        justify-content: space-between;
+        align-items: center;
+        color: #666666;
+    }
+
+    .materialText img {
+        width: 100%;
+    }
+
+    .materialText div {
+        width: 100%;
+    }
+
+    .holdersSection {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: center;
+        color: #666666;
+    }
+
+    .holdersSection div {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        align-items: center;
+        width: 100%;
+        margin: 40px 0px;
+    }
+
+    .holdersSection img {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+    .weatherBox {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        width: 100%;
+        margin: 20px 0px;
+    }
+
+    .weatherBox div {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+        width: 50%;
+        margin-top: 20px;
+    }
+
+    .weatherBox img {
+        width: 100px;
+    }
+
+    .weatherBox h3 {
+        font-size: 14px;
+    }
+
+    .subLogoBox {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-bottom: 20px;
+    }
+}

@@ -1,0 +1,292 @@
+.productSection{
+  display: flex;
+  justify-content: center;
+  color: #333;
+}
+
+.filterToggleButton {
+  display: none;
+  margin: 10px;
+  padding: 10px 20px;
+  background-color: #188d2f;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.filterSection{
+    padding: 40px 20px;
+    border-right: 1px solid #333;
+}
+
+.sortingBlock{
+    width: 200px;
+    padding-bottom: 20px;
+}
+
+.sortingBlockFlex{
+    display: flex;
+    flex-direction: column;
+    line-height: 2.5rem;
+}
+
+.productsBlock{
+  width: 100%;
+}
+
+.productCardBlock{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding: 40px;
+}
+
+.productCard{
+    margin-bottom: 20px;
+    transition: 0.4s;
+}
+
+.productCard li{
+    margin: 5px 10px;
+    padding: 10px 10px;
+    list-style: none;
+}
+
+.productCard h2{
+    padding: 20px 0px;
+}
+
+.productCard img{
+    width: 100%;
+}
+
+.productCard li:hover {
+    background: rgba(98, 98, 98, 0.84);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(6.1px);
+    -webkit-backdrop-filter: blur(6.1px);
+    border-radius: 10px;
+    color: #fff;
+}
+
+.filterSection input[type="checkbox"] {
+  width: 16px;
+  height: 16px;
+} 
+
+.filterOpenButton , .filterCloseButton {
+  display: none ;
+}
+
+.filterOpenButton a{
+  font-size: 22px;
+  display: flex;
+  align-items: center;
+  border: 2px solid #333;
+  border-radius: 5px;
+  padding: 4px 6px;
+  text-decoration: none;
+  color: #333;
+}
+
+.filterOpenButton a img{
+  width: 22px;
+}
+
+
+@supports (-webkit-appearance: none) or (-moz-appearance: none) {
+    .checkboxWrapper13{
+        margin: 5px;
+    }
+
+    .checkboxWrapper13 input[type=checkbox] {
+      --active: #188d2f;
+      --active-inner: #fff;
+      --focus: 2px rgba(46, 254, 39, 0.3);
+      --border: #BBC1E1;
+      --border-hover: #188d2f;
+      --background: #fff;
+      --disabled: #F6F8FF;
+      --disabled-inner: #E1E6F9;
+      -webkit-appearance: none;
+      -moz-appearance: none;
+      height: 21px;
+      outline: none;
+      display: inline-block;
+      vertical-align: top;
+      position: relative;
+      margin: 0;
+      cursor: pointer;
+      border: 1px solid var(--bc, var(--border));
+      background: var(--b, var(--background));
+      transition: background 0.3s, border-color 0.3s, box-shadow 0.2s;
+    }
+    .checkboxWrapper13 input[type=checkbox]:after {
+      content: "";
+      display: block;
+      left: 0;
+      top: 0;
+      position: absolute;
+      transition: transform var(--d-t, 0.3s) var(--d-t-e, ease), opacity var(--d-o, 0.2s);
+    }
+    .checkboxWrapper13 input[type=checkbox]:checked {
+      --b: var(--active);
+      --bc: var(--active);
+      --d-o: .3s;
+      --d-t: .6s;
+      --d-t-e: cubic-bezier(.2, .85, .32, 1.2);
+    }
+    .checkboxWrapper13 input[type=checkbox]:disabled {
+      --b: var(--disabled);
+      cursor: not-allowed;
+      opacity: 0.9;
+    }
+    .checkboxWrapper13 input[type=checkbox]:disabled:checked {
+      --b: var(--disabled-inner);
+      --bc: var(--border);
+    }
+    .checkboxWrapper13 input[type=checkbox]:disabled + label {
+      cursor: not-allowed;
+    }
+    .checkboxWrapper13 input[type=checkbox]:hover:not(:checked):not(:disabled) {
+      --bc: var(--border-hover);
+    }
+    .checkboxWrapper13 input[type=checkbox]:focus {
+      box-shadow: 0 0 0 var(--focus);
+    }
+    .checkboxWrapper13 input[type=checkbox]:not(.switch) {
+      width: 21px;
+    }
+    .checkboxWrapper13 input[type=checkbox]:not(.switch):after {
+      opacity: var(--o, 0);
+    }
+    .checkboxWrapper13 input[type=checkbox]:not(.switch):checked {
+      --o: 1;
+    }
+    .checkboxWrapper13 input[type=checkbox] + label {
+      display: inline-block;
+      vertical-align: middle;
+      cursor: pointer;
+      margin-left: 4px;
+    }
+
+    .checkboxWrapper13 input[type=checkbox]:not(.switch) {
+      border-radius: 7px;
+    }
+    .checkboxWrapper13 input[type=checkbox]:not(.switch):after {
+      width: 5px;
+      height: 9px;
+      border: 2px solid var(--active-inner);
+      border-top: 0;
+      border-left: 0;
+      left: 7px;
+      top: 4px;
+      transform: rotate(var(--r, 20deg));
+    }
+    .checkboxWrapper13 input[type=checkbox]:not(.switch):checked {
+      --r: 43deg;
+    }
+  }
+
+  .checkboxWrapper13 * {
+    box-sizing: inherit;
+  }
+  .checkboxWrapper13 *:before,
+  .checkboxWrapper13 *:after {
+    box-sizing: inherit;
+  }
+
+@media (max-width: 460px) {
+
+  h1 {
+    font-size: 28px;
+    margin: 10px 20px;
+  }
+
+    .productCard {
+        width: 50%;
+    }
+
+    .productCardBlock {
+      display: flex;
+      flex-direction: row;
+      flex-wrap: wrap;
+      padding: 0px 20px;
+  }
+
+  .filterOpenButton {
+    display: block;
+    padding: 10px 20px;
+    background: none;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+
+  .filterCloseButton {
+    display: none;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background: none;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+    z-index: 1001;
+  }
+
+  .filterCloseButton.show{
+    display: block;
+  }
+
+  .filterSection {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: white;
+    z-index: 999;
+    padding: 20px;
+    overflow-y: auto;
+    transform: translateY(-100%);
+    transition: transform 0.3s ease-out;
+  }
+
+  .filterSection.show {
+    display: block;
+    transform: translateY(0);
+  }
+
+  .sortingBlockFlex {
+    display: flex;
+    flex-direction: column;
+    line-height: 2.5rem;
+    width: 90%;
+  }
+}
+
+@media (min-width: 600px) {
+    .productCard {
+        width: 50%;
+    }
+}
+
+@media (min-width: 768px) {
+    .productCard {
+        width: 33.33333%;
+    }
+    
+}
+
+@media (min-width: 1280px) {
+    .productCard{
+        width: 20%;
+    }
+}

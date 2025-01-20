@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Play:wght@400;700&display=swap');
+
+* {
+  text-decoration: none;
+  font-family: "Play", sans-serif;
+  scroll-behavior: smooth;
+}
+
+body{
+  margin: 0px;
+  padding: 0px;
+}
+
+.splide__slide img {
+  vertical-align: bottom;
+  width: 100%;
+}
+
+.splide.is-initialized, .splide.is-rendered {
+  width: 100%;
+}
+
+.splide__pagination__page.is-active{
+  background:#188d2f !important;
+}
+.splide__pagination {
+  z-index: 5 !important;
+}

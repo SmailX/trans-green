@@ -1,0 +1,248 @@
+.section {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: #fff;
+    margin-top: 340px;
+    padding-bottom: 40px;
+}
+
+.leftSection, .rightSection {
+    width: 45%;
+    display: flex;
+    flex-direction: column;
+}
+
+td {
+    width: 50%;
+    text-align: left;
+    padding: 8px;
+    font-size: 16px;
+}
+
+.leftSection .feature, .rightSection .feature {
+    width: 100%;
+}
+
+.specBlock{
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+}
+
+.rightSection h2{
+    text-align: start;
+    font-size: 26px;
+    padding: 20px 0px;
+}
+
+.rightSection ul{
+    list-style: none;
+}
+
+.rightSection ul li{
+    margin-bottom: 10px;
+}
+
+.rightSection ul span{
+    border: 1px solid black;
+    padding: 2px 8px;
+    margin-right: 10px;
+}
+.rightSection ul .double{
+    border: 1px solid black;
+    padding: 2px 4px;
+    margin-right: 10px;
+}
+
+.skipField{
+    margin-top: 40px;
+}
+
+.container {
+    text-align: center;
+    margin-top: 50px;
+    width: 100%;
+}
+
+.tabs {
+    display: flex;
+    margin: 30px auto;
+    align-items: center;
+    max-width: 1600px;
+}
+
+.buttonBlock{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.tabButton {
+    width: auto;
+    padding: 5px 10px;
+    font-size: 16px;
+    cursor: pointer;
+    color: #000;
+    background-color: #fff;
+    border: 1px solid #fff;;
+    border-radius: 5px;
+    transition: background-color 0.3s, color 0.3s;
+    margin-left: 20px;
+}
+
+.tabButton:hover {
+    color: #188d2f;
+    border: 1px solid #188d2f;
+}
+
+.tabButton.active {
+    color: #fff;  /* Make the text color more visible on active state */
+    background-color: #188d2f;  /* Highlight active tab */
+    border-bottom: 1px solid #188d2f;
+}
+
+.tabContent p{
+    text-align: left;
+}
+
+
+.variantCard {
+    display: flex;
+    max-width: 1600px;
+    margin: 80px auto;
+    justify-content: space-between;
+}
+
+.price {
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.buyBlock{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.buyButton {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #188d2f;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.buyButton:hover {
+    background-color: #0b5019;
+}  
+
+.showMoreButton {
+    margin: 10px 0 0 10px;
+    padding: 10px 15px;
+    font-size: 16px;
+    background-color: #188d2f;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    max-width: 140px;
+}
+
+.showMoreButton:hover {
+    background-color: #0b5019;
+}
+
+@media (max-width: 1600px) {
+    .tabs {
+        display: flex;
+        margin: 40px 80px;
+        align-items: center;
+    }
+
+    .variantCard {
+        display: flex;
+        max-width: 1600px;
+        margin: 80px 80px;
+        justify-content: space-between;
+    }
+}
+
+@media (max-width: 1280px) {
+    .tabs {
+        display: flex;
+        margin: 40px 80px;
+        align-items: center;
+        max-width: 1600px;
+    }
+
+    .variantCard {
+        display: flex;
+        max-width: 1600px;
+        margin: 80px 80px;
+        justify-content: space-between;
+    }
+}
+
+@media screen and (max-width: 720px) {
+    .tabs {
+        display: flex;
+        margin: 0px;
+        align-items: center;
+    }
+    .tabButton {
+        width: auto;
+        padding: 10px 0px;
+        font-size: 16px;
+        cursor: pointer;
+        background-color: #fff;
+        border: 0px;
+        border-radius: 5px;
+        margin: 0px 20px;
+        transition: background-color 0.3s, color 0.3s;
+        flex: 1;
+    }
+    .tabContent {
+        display: block;
+        padding: 15px 10px;
+    }
+    .tabButton {
+        padding: 10px 0;
+        font-size: 14px;
+    }
+
+    .container {
+        width: 100%;
+        margin-top: 20px;
+    }
+
+    .container button{
+        text-decoration: none;
+    }
+
+    .variantCard {
+        display: flex;
+        flex-direction: column;
+        margin: 0px;
+        justify-content: space-between;
+    }
+    
+    .section {
+        margin-top: 240px;
+        flex-direction: column;
+    }
+
+    .leftSection, .rightSection {
+        width: 100%;
+        margin-top: 20px;
+        flex: 1;
+    }
+
+    .rightSection ul {
+        list-style: none;
+        padding: 0px;
+    }
+}

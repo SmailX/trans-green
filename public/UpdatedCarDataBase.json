@@ -1,0 +1,60 @@
+{
+    "electric_cars": [
+        {
+            "name": "Renault Zoe",
+            "charging_type": "AC (Type 2)",
+            "phases": 3,
+            "power_consumption": "22 кВт",
+            "country": "Europe"
+        },
+        {
+            "name": "Tesla Model S",
+            "charging_type": "AC (Type 2)",
+            "phases": 3,
+            "power_consumption": "11,5 кВт",
+            "country": "America"
+        },
+        {
+            "name": "Tesla Model S",
+            "charging_type": "AC (Type 2)",
+            "phases": 3,
+            "power_consumption": "16,5 кВт",
+            "country": "Europe"
+        },
+        {
+            "name": "Tesla Model 3",
+            "charging_type": "AC (Type 2)",
+            "phases": 3,
+            "power_consumption": "11 кВт",
+            "country": "America"
+        },
+        {
+            "name": "Tesla Model 3",
+            "charging_type": "AC (Type 2)",
+            "phases": 3,
+            "power_consumption": "11 кВт",
+            "country": "Europe"
+        },
+        {
+            "name": "Tesla Model 3",
+            "charging_type": "AC (Type 2)",
+            "phases": 3,
+            "power_consumption": "11 кВт",
+            "country": "China"
+        },
+        {
+            "name": "Qoros 5 EV",
+            "charging_type": "AC (Type 2)",
+            "phases": 1,
+            "power_consumption": "7–11 кВт",
+            "country": "China"
+        },
+        {
+            "name": "ELegend EL1",
+            "charging_type": "AC (Type 2)",
+            "phases": 3,
+            "power_consumption": "22 кВт (AC)",
+            "country": "China"
+        }
+    ]
+}

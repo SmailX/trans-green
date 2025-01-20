@@ -1,0 +1,63 @@
+/* Стили для контейнера селектора react-select*/
+div .custom-select__control {
+    background-color: #f5f5f5;
+    border: 2px solid ;
+    border-radius: 8px;
+    box-shadow: none;
+    transition: border-color 0.3s ease;
+}
+
+div .custom-select__control:hover {
+    border-color: #188d2f;
+}
+
+div .custom-select__menu {
+    border-radius: 8px;
+    margin-top: 5px;
+    overflow: hidden;
+}
+
+/* Стили для опций */
+div .custom-select__option {
+    padding: 10px;
+    background-color: #fff;
+    color: #333;
+    transition: background-color 0.2s ease;
+}
+
+div .custom-select__option:hover {
+    background-color: rgba(24, 141, 47, 0.684);
+}
+
+div .custom-select__option--is-selected {
+    background-color: #188d2f;
+    color: #fff;
+}
+
+/* Стили для placeholder */
+div .custom-select__placeholder {
+    color: #888;
+}
+
+/* Стили для выбранного значения */
+div .custom-select__single-value {
+    color: #333;
+}
+
+/* Стили для стрелки */
+div .custom-select__dropdown-indicator {
+    color: #3f3d56;
+}
+
+div .custom-select__dropdown-indicator:hover {
+    color: #188d2f;
+}
+
+/* Стили для кнопки очистки */
+div .custom-select__clear-indicator {
+    color: #188d2f;
+}
+
+div .custom-select__clear-indicator:hover {
+    color: #3f3d56;
+}

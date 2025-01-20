@@ -1,0 +1,118 @@
+.relevantChargers{
+    max-width: 1200px;
+    margin: auto;
+    min-height: 720px;
+}
+
+.relevantChargers h1{
+    margin-left: 20px;
+}
+
+.errorBlock{
+    width: 100%;
+    text-align: center;
+    min-height: 780px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #333;
+    font-size: 24px;
+}
+
+.selectorsBlock{
+    display: flex;
+    flex-direction: row;
+}
+
+.formGroup{
+    padding: 20px;
+    flex: 0.5;
+}
+
+h2 {
+    font-size: 20px;
+    text-decoration: none;
+    padding: 20px;
+    margin: 0px;
+}
+
+.productCardBlock{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding: 40px;
+}
+
+.productCard{
+    margin-bottom: 20px;
+    transition: 0.4s;
+}
+
+.productCard li{
+    margin: 5px 10px;
+    padding: 10px 10px;
+    list-style: none;
+}
+
+.productCard img{
+    width: 100%;
+}
+
+.productCard li:hover {
+    background: rgba(98, 98, 98, 0.84);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(6.1px);
+    -webkit-backdrop-filter: blur(6.1px);
+    border-radius: 10px;
+    color: #fff;
+    
+}
+
+@media (max-width: 460px) {
+    .productCardBlock {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        padding: 0px 20px;
+    }
+
+    .productCard {
+        width: 50%;
+    }
+
+    .selectorsBlock{
+        display: flex;
+        flex-direction: column;
+    }
+    
+    .formGroup{
+        flex: 1;
+    }
+}
+
+@media (min-width: 600px) {
+    .productCardBlock {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        padding: 0px 20px;
+    }
+
+    .productCard {
+        width: 50%;
+    }
+}
+
+@media (min-width: 768px) {
+    .productCard {
+        width: 33.33333%;
+    }
+    
+}
+
+@media (min-width: 1280px) {
+    .productCard{
+        width: 20%;
+    }
+}

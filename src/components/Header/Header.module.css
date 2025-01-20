@@ -1,0 +1,142 @@
+header{
+    width: 100%;
+    background-color: #333;
+}
+
+.wraper{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+}
+
+.menu{
+    width: 480px;
+}
+
+.menu ul{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.menu a{
+    text-decoration: none;
+    color: #fff;
+}
+
+.menu a:hover{
+    color: #188d2f;
+}
+
+.menu li{
+    list-style: none;
+}
+
+.logoLink{
+    width: 200px;
+}
+
+.smallLogoLink{
+    width: 40px;
+    display: none;
+}
+
+.cartLink {
+    position: relative;
+    display: inline-block;
+}
+
+.cartCount {
+    width: 18px;
+    height: 18px;
+    background-color: #188d2f;
+    color: white;
+    border-radius: 50%;
+    font-size: 12px;
+    position: absolute;
+    top: -5px;
+    right: -10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.cartCount p{
+    margin: 0px;
+    padding: 0px;
+}
+
+@media screen and (max-width: 720px){
+    header{
+        width: 100%;
+        background-color: #333;
+    }
+    
+    .wraper{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 10px 20px;
+    }
+    
+    .menu{
+        width: 480px;
+    }
+    
+    .menu ul{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    
+    .menu a{
+        text-decoration: none;
+        color: #fff;
+    }
+    
+    .menu a:hover{
+        color: #188d2f;
+    }
+    
+    .menu li{
+        list-style: none;
+    }
+    
+    .logoLink{
+        width: 200px;
+        display: none;
+    }
+    
+    .smallLogoLink{
+        width: 40px;
+        display: block;
+    }
+    
+    .cartLink {
+        position: relative;
+        display: inline-block;
+    }
+    
+    .cartCount {
+        width: 18px;
+        height: 18px;
+        background-color: #188d2f;
+        color: white;
+        border-radius: 50%;
+        font-size: 12px;
+        position: absolute;
+        top: -5px;
+        right: -10px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+    
+    .cartCount p{
+        margin: 0px;
+        padding: 0px;
+    }
+}
